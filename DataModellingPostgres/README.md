@@ -81,3 +81,4 @@ Remember to rerun  `create_tables.py`  to reset tables before each time we run t
 
 `etl.py`pipeline is built for  processing  the entire data set. Remember to run  `create_tables.py`  before running  `etl.py`  to reset  tables. Run  `test.ipynb`  to confirm that records were successfully inserted into each table.
 
+
